@@ -59,13 +59,13 @@ useEffect(() => {
 >
   <button onClick={onScrollClick} className="hover:bg-[#195BA2] duration-200 hover:text-white w-fit text-4xl border-2 border-[#195BA2] rounded-md ">
     <p className='px-4 font-light py-2'>
-      3 Issue Series
+      4 Issue Series
       </p>     
 </button> <br />
 Video-based Complex Intervention Procedures Case Series is a compilation of six cases from key operator/institutes of India. Ranging
 from procedures such as left main stenting, bifurcation, metal-free drug-eluting balloon (DEB), calcium modification with rotablator/orbital
 atherectomy, to intravascular lithotripsy (IVL), and supported PCI; these cases describe case reports with detailed discussions and key references
-along with educational video.
+along with educational videos.
   <br /><br />
   This sets the stage for comprehensive education for the early-career interventional cardiologists, as well as the advanced operators, and help
 familiarize them with "cutting edge" concepts and technologies. The monthly series will keep the spirit alive and the game on by applying these
