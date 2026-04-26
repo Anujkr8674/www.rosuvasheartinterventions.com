@@ -1,4 +1,4 @@
-name: Deploy Next.js to Hostinger
+name: 🚀 Deploy Next.js to Hostinger
 
 on:
   push:
@@ -10,24 +10,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Code
+      - name: 📥 Checkout Code
         uses: actions/checkout@v3
 
-      - name: Setup Node.js
+      - name: ⚙️ Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 18
 
-      - name: Install Dependencies
+      - name: 📦 Install Dependencies
         run: npm install
 
-      - name: Build Project
+      - name: 🏗 Build Project (Static Export auto)
         run: npm run build
 
-      - name:  Export Static Files
-        run: npm run export
-
-      - name: Deploy to Hostinger (FTP)
+      - name: 🚀 Deploy to Hostinger via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: ${{ secrets.FTP_SERVER }}
