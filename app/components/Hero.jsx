@@ -65,7 +65,7 @@ useEffect(() => {
 Video-based Complex Intervention Procedures Case Series is a compilation of six cases from key operator/institutes of India. Ranging
 from procedures such as left main stenting, bifurcation, metal-free drug-eluting balloon (DEB), calcium modification with rotablator/orbital
 atherectomy, to intravascular lithotripsy (IVL), and supported PCI; these cases describe case reports with detailed discussions and key references
-along with educational videos.
+along with educational video.
   <br /><br />
   This sets the stage for comprehensive education for the early-career interventional cardiologists, as well as the advanced operators, and help
 familiarize them with "cutting edge" concepts and technologies. The monthly series will keep the spirit alive and the game on by applying these
