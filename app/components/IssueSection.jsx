@@ -26,7 +26,7 @@ const issues = [
   },
   {
     coverImg:
-      ' https://rosuvasheartinterventions.com/assets/cover4.jpg',
+      ' https://rosuvasheartinterventions.com/assets/cover4.png',
     issueNo: 4,
     linkUrl: './issue4',
   },
