@@ -1,0 +1,139 @@
+'use client';
+
+import React from 'react';
+import AuthorCard from '../../minicomponents/AuthorCard';
+import VideoCard from '../../minicomponents/VideoCard';
+import Link from 'next/link';
+import { motion } from 'framer-motion';
+
+function Page() {
+  const authors = [
+    'Ashish Kumar Jain',
+    'R.R. Mantri',
+    'Arun Mohanty',
+    'Aman Makhija',
+  ];
+
+  const videoDetails = [
+    {
+      title: 'Videos 1A to C',
+      about: 'PTCA to LAD attempted outside',
+    },
+    {
+      title: 'Videos 2A to C',
+      about: 'CAG (done outside)',
+    },
+    {
+      title: 'Videos 3A and B',
+      about: 'Coronary angiography showed mid-LAD ISR',
+    },
+    {
+      title: 'Video 4',
+      about: 'LAD follow-up OCT-run ISR Ca++ score analysis',
+    },
+    {
+      title: 'Videos 5A to C',
+      about: 'IVL (3.5 × 12) attempted',
+    },
+    {
+      title: 'Videos 6A and B',
+      about:
+        'High-pressure dilation was done with an NC 3.5 mm balloon at 22 atm',
+    },
+    {
+      title: 'Video 7',
+      about:
+        'LAD post IVL and high-pressure dilation OCT-run Ca++ score analysis',
+    },
+    {
+      title: 'Videos 8A to C',
+      about:
+        'Plaque modification was done with a 3.5 x 10 mm Wolverine cutting balloon, followed by OPN NC 3.5 x 10 balloon dilation at 35 atm',
+    },
+    {
+      title: 'Video 9',
+      about: 'LAD post high-pressure dilation OCT-run Ca++ score analysis',
+    },
+    {
+      title: 'Videos 10A to C',
+      about:
+        'Balloon dilation with a 4.0 mm NC balloon; a 3.5 x 10 mm paclitaxel-coated balloon (Magic Touch 3.5 × 10 mm; drug-eluting balloon) was dilated at 8 atm for 60 seconds',
+    },
+    {
+      title: 'Video 11',
+      about: 'Post-DCB OCT run showed MLA of 5.3 mm²',
+    },
+    {
+      title: 'Videos 12A and B',
+      about: 'Final angiography run showed TIMI-III flow in LAD',
+    },
+  ];
+
+  return (
+    <div className="min-h-screen custom text-[#007c82] px-6 py-16">
+              <div className="absolute inset-0 -z-10 h-full w-full bg-white bg-[linear-gradient(to_right,#f0f0f0_1px,transparent_1px),linear-gradient(to_bottom,#f0f0f0_1px,transparent_1px)] bg-[size:6rem_4rem]"></div>
+
+      
+      {/* Hero Section */}
+      <div className="md:max-w-7xl mx-auto text-center mb-12">
+        <h1 className="text-3xl  md:text-5xl font-light ">
+            <button className="hover:bg-[#007c82] duration-200 text-[#6d6e71] hover:text-white  text-4xl border-2 border-[#007c82] rounded-md ">
+    <p className='px-4 font-light py-2'>
+      Issue 2 - Case 1
+      </p>     
+</button>
+          <h1 className="pt-4 sm:mx-8 sm:text-[30px] text-[20px] font-light ">Management of Recurrent ISR under Intravascular Imaging
+</h1>
+        </h1>
+         
+        <div className="mt-6">
+          <Link
+            href="/issue2"
+            className='px-6 py-2 hover:bg-[#007c82] hover:text-white duration-300 scale-75 sm:scale-100 rounded-full border-2 border-[#007c82] text-[#007c82] transition text-sm font-medium'
+           >
+            ← Back to Issue 2
+          </Link>
+        </div>
+      </div>
+
+      {/* Authors Section */}
+      <section className="max-w-5xl mx-auto text-center mb-20">
+        <div className='flex justify-center   items-center'>
+        <h2 className="text-2xl md:text-3xl font-semibold mb-10 border-b-1 py-2   text-center">Researchers & Contributors</h2>
+        </div>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 justify-items-center">
+          {authors.map((author, index) => (
+            <motion.div
+              key={author}
+              initial={{ opacity: 0, x: index % 2 === 0 ? -100 : 100 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              transition={{ duration: 0.8 }}
+              viewport={{ once: true }}
+            >
+              <AuthorCard title={author} />
+            </motion.div>
+          ))}
+        </div>
+      </section>
+
+      {/* Video Section */}
+      <section className="max-w-7xl mx-auto mb-20">
+        <div className='flex justify-center   items-center'>
+        <h2 className="text-2xl md:text-3xl font-semibold mb-10 border-b-1 py-2   text-center">Case Videos</h2>
+        </div>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {videoDetails.map((video, index) => (
+            <VideoCard
+              key={video.title}
+              videoSrc={`/issue1case1assets/is1cs1v${(index % 6) + 1}.mp4`}
+              title={video.title}
+              about={video.about}
+            />
+          ))}
+        </div>
+      </section>
+    </div>
+  );
+}
+
+export default Page;

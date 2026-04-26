@@ -1,0 +1,124 @@
+'use client';
+
+import React, { useRef } from 'react';
+import Link from 'next/link';
+import { motion, useInView } from 'framer-motion';
+import CaseStudyCard from '../minicomponents/caseStudyCard';
+
+function AnimatedCase({ imgSrc, title, description, href, caseNo, reverse }) {
+  const ref = useRef(null);
+  const inView = useInView(ref, { once: true, margin: '-100px' });
+
+  const containerClasses = `flex flex-col sm:h-72 h-full ${reverse ? 'md:flex-row-reverse' : 'md:flex-row'} items-center gap-6`;
+
+  return (
+    <div ref={ref} className={containerClasses}>
+      {/* Image */}
+      <motion.img
+        src={imgSrc}
+        alt={`Case ${caseNo}`}
+        className="w-full h-full object-cover md:w-1/2 rounded shadow-md"
+        initial={{ x: reverse ? 100 : -100, opacity: 0 }}
+        animate={inView ? { x: 0, opacity: 1 } : {}}
+        transition={{ duration: 0.6, ease: 'easeOut' }}
+      />
+
+      {/* Card */}
+      <motion.div
+        className=" flex sm:w-1/2 justify-center"
+        initial={{ x: reverse ? -100 : 100, opacity: 0 }}
+        animate={inView ? { x: 0, opacity: 1 } : {}}
+        transition={{ duration: 0.6, ease: 'easeOut' }}
+      >
+        <div className=" w-full">
+          <CaseStudyCard
+            title={title}
+            description={description}
+            href={href}
+            caseNo={caseNo}
+          />
+        </div>
+      </motion.div>
+    </div>
+  );
+}
+
+function Page() {
+  const issueTitle = 'Issue 3';
+
+  return (
+    <div className="min-h-screen custom text-[#195BA2] px-6 py-20">
+      {/* Background pattern */}
+      <div className="absolute inset-0 -z-10 h-full w-full bg-white bg-[linear-gradient(to_right,#f0f0f0_1px,transparent_1px),linear-gradient(to_bottom,#f0f0f0_1px,transparent_1px)] bg-[size:6rem_4rem]"></div>
+
+      {/* Header */}
+      <div className="max-w-7xl mx-auto flex md:flex-row justify-between items-center gap-8 mb-16">
+        <button className="hover:bg-[#195BA2] text-[#6d6e71]  duration-200 hover:text-white sm:text-4xl text-2xl border-2 border-[#195BA2] rounded-md">
+          <p className="px-4 font-light py-2">{issueTitle}</p>
+        </button>
+
+        <Link
+          href="/"
+          className="px-6 py-2 hover:bg-[#195BA2] hover:text-white duration-300 scale-75 sm:scale-100 rounded-full border-2 border-[#195BA2] text-[#195BA2] transition text-sm font-medium"
+        >
+          ← Back to Home
+        </Link>
+      </div>
+
+      {/* Cases */}
+      <div className="space-y-10 max-w-7xl mx-auto">
+        <AnimatedCase
+          imgSrc="https://rosuvasheartinterventions.com/assets/issue3cs1.png"
+          title="PERFORATION AND PERIL: IATROGENIC CORONARY CAMERAL FISTULA POST-RCA CTO PER CUTANEOUS CORONARY INTERVENTION"
+          description=""
+          href="/issue3/case1"
+          caseNo={1}
+          reverse={false}
+        />
+        <AnimatedCase
+          imgSrc="https://rosuvasheartinterventions.com/assets/issue3cs2.png"
+          title="PRECISION WITHOUT IMPLANT: LEAVING NOTHING BEHIND"
+          description=""
+          href="/issue3/case2"
+          caseNo={2}
+          reverse={true}
+        />
+        <AnimatedCase
+          imgSrc="https://rosuvasheartinterventions.com/assets/issue3cs3.png"
+          title="IMPELLA-ASSISTED CHIP PCI IN AN OCTOGENARIAN"
+          description=""
+          href="/issue3/case3"
+          caseNo={3}
+          reverse={false}
+        />
+        <AnimatedCase
+          imgSrc="https://rosuvasheartinterventions.com/assets/issue3cs4.png"
+          title="BETWEEN ROCK AND A HARD PLACE: A CASE OF COMPLEX LM PCI WITH CALCIFIC VESSEL"
+          description=""
+          href="/issue3/case4"
+          caseNo={4}
+          reverse={true}
+        />
+        <AnimatedCase
+          imgSrc="https://rosuvasheartinterventions.com/assets/issue3cs5.png"
+          title="MANAGEMENT OF IATROGENIC LEFT MAIN DISSECTION AND CLOSURE"
+          description=""
+          href="/issue3/case5"
+          caseNo={5}
+          reverse={false}
+        />
+        <AnimatedCase
+          imgSrc="https://rosuvasheartinterventions.com/assets/issue3cs6.png"
+          title="ELCA-GUIDED PTCA: A CASE REPORT"
+          description=""
+          href="/issue3/case6"
+          caseNo={6}
+          reverse={true}
+        />
+       
+      </div>
+    </div>
+  );
+}
+
+export default Page;
