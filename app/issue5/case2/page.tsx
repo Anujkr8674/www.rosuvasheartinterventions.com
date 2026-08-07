@@ -70,7 +70,16 @@ function Page() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5case2assets/converted_video_1.mp4" title="Video 1" about=""/>
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 2/Media 1.mp4" title="VIDEO 1" about="Left subclavian venogram demonstrating persistent left superior vena cava with no communicating innominate vein." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 2/Media 2.mp4" title="VIDEO 2" about="Right subclavian venogram showing separate drainage into the right superior vena cava without a communicating vein." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 2/Media 3.mp4" title="VIDEO 3" about="Attempt to engage the lateral vein through persistent left superior vena cava using a Judkins Right guiding catheter; engagement was unsuccessful due to sharp angulation." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 2/Media 4.mp4" title="VIDEO 4" about="Successful engagement of the lateral vein using a 6 Fr Extra Back-Up guiding catheter." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 2/Media 5.mp4" title="VIDEO 5" about="A 0.014-inch hydrophilic guidewire advanced deeply into the lateral vein branch; a sub-selector catheter used to facilitate lead delivery." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 2/Media 6.mp4" title="VIDEO 6" about="Guidewire advanced into the right atrium through venous collaterals and subsequently snared via femoral venous access." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 2/Media 7.mp4" title="VIDEO 7" about="Maintenance of snare tension to create a stable veno-venous loop and improve support for lead delivery." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 2/Media 8.mp4" title="VIDEO 8" about="A coronary angioplasty balloon advanced through femoral access and inflated near the tip of the Judkins Right guiding catheter to stabilize the system." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 2/Media 9.mp4" title="VIDEO 9" about="Successful delivery of the quadripolar coronary sinus lead into the lateral vein." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 2/Media 10.mp4" title="VIDEO 10" about="Final position of all leads, including right atrial, right ventricular, and coronary sinus leads." />
         </div>
       </section>
     </div>

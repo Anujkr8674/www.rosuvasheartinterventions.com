@@ -59,7 +59,22 @@ function Page() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5case5assets/converted_video_1.mp4" title="Video 1" about=""/>
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 5/Media 1a.mp4" title="Video 1a" about="Angiography" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 5/Media 1b.mp4" title="Video 1b" about="Angiography" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 5/Media 1c.mp4" title="Video 1c" about="Rotablation using 1.5 mm Burr: LMCA to LCx and LMCA to LAD." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 5/Media 1d.mp4" title="Video 1d" about="Rotablation using 1.5 mm Burr: LMCA to LCx and LMCA to LAD." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 5/Media 1e.mp4" title="Video 1e" about="DES Deployment in LCx" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 5/Media 1f.mp4" title="Video 1f" about="DES Deployment in LCx" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 5/Media 1g.mp4" title="Video 1g" about="IVL LM to LAD & LM to LCx" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 5/Media 1h.mp4" title="Video 1h" about="IVL LM to LAD & LM to LCx" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 5/Media 1i.mp4" title="Video 1i" about="IVL LM to LAD & LM to LCx" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 5/Media 1j.mp4" title="Video 1j" about="IVL LM to LAD & LM to LCx" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 5/Media 1k.mp4" title="Video 1k" about="DES Positioning and deployment using Mini-Crush Bifurcation technique, FKBI, POT" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 5/Media 1l.mp4" title="Video 1l" about="DES Positioning and deployment using Mini-Crush Bifurcation technique, FKBI, POT" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 5/Media 1m.mp4" title="Video 1m" about="DES Positioning and deployment using Mini-Crush Bifurcation technique, FKBI, POT" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 5/Media 1n.mp4" title="Video 1n" about="DES Positioning and deployment using Mini-Crush Bifurcation technique, FKBI, POT" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 5/Media 2a.mp4" title="Video 2a" about="LM to LAD Post PCI" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 5/Media 2b.mp4" title="Video 2b" about="angiographically TIMI3 flow was achieved." />
         </div>
       </section>
     </div>

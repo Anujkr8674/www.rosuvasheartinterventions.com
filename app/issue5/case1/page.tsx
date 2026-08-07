@@ -81,7 +81,10 @@ function Page() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5case1assets/converted_video_1.mp4" title="Video 1" about=""/>
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 1/Media 1.mp4" title=" Video 1" about="The LAD CTO was successfully crossed using a Gaia Next 1 guidewire, supported by a Corsair microcatheter. Wire position was confirmed with RCA injection." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 1/Media 2.mp4" title="Video 2" about="Even a 1 × 6 mm semi-compliant balloon failed to cross the lesion, confirming a balloon-uncrossable calcified CTO" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 1/Media 3.mp4" title="Video 3" about="Rotational atherectomy was performed using a 1.25 mm burr at 180,000 rpm" />
+
         </div>
       </section>
     </div>

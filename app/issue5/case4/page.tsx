@@ -70,7 +70,17 @@ function Page() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5case4assets/converted_video_1.mp4" title="Video 1" about=""/>
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 1.mp4" title="Video 1" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 2.mp4" title="Video 2" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 3.mp4" title="Video 3" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 4.mp4" title="Video 4" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 5.mp4" title="Video 5" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 6.mp4" title="Video 6" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 7.mp4" title="Video 7" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 8.mp4" title="Video 8" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 9.mp4" title="Video 9" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 10.mp4" title="Video 10" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 11.mp4" title="Video 11" about="" />
         </div>
       </section>
     </div>

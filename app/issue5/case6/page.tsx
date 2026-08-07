@@ -59,7 +59,25 @@ function Page() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5case6assets/converted_video_1.mp4" title="Video 1" about=""/>
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 6/Media 1.mp4" title="Video 1" about="Coronary angiography" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 6/Media 2a.mp4" title="Video 2a" about="Pre-rotablation" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 6/Media 2b.mp4" title="Video 2b" about="Pre-rotablation" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 6/Media 2c.mp4" title="Video 2c" about="Pre-rotablation" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 6/Media 2d.mp4" title="Video 2d" about="Pre-rotablation" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 6/Media 3a.mp4" title="Video 3a" about="Rotablation 1.5 mm burr" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 6/Media 3b.mp4" title="Video 3b" about="Rotablation 1.5 mm burr" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 6/Media 4a.mp4" title="Video 4a" about="Predilatation using a 2.5 X 12 mm NC balloon" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 6/Media 4b.mp4" title="Video 4b" about="Predilatation using a 3.5 X 12 mm NC balloon" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 6/Media 5.mp4" title="Video 5" about="Drug-eluting stent (3.5 X 33 mm)" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 6/Media 6.mp4" title="Video 6" about="Post-dilatation using a 4.5 mm NC balloon" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 6/Media 7a.mp4" title="Video 7a" about="Post-intervention IVUS" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 6/Media 7b.mp4" title="Video 7b" about="Final result" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 6/Media 8.mp4" title="Video 8" about="IVUS pre-intervention" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 6/Media 9a.mp4" title="Video 9a" about="Wolverine cutting balloon (3 X 10 mm)" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 6/Media 9b.mp4" title="Video 9b" about="Wolverine cutting balloon (3 X 10 mm)" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 6/Media 10.mp4" title="Video 10" about="Shockwave IVL (3.5 X 12 mm)" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 6/Media 11.mp4" title="Video 11" about="Post-dilatation (4 X 12 mm NC balloon)" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 6/Media 12.mp4" title="Video 12" about="IVUS post-intervention" />
         </div>
       </section>
     </div>
