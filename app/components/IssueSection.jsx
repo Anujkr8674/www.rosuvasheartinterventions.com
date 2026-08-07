@@ -30,25 +30,32 @@ const issues = [
     issueNo: 4,
     linkUrl: './issue4',
   },
- 
-  
-   
+
+  {
+    coverImg:
+      ' https://rosuvasheartinterventions.com/assets/cover5.png',
+    issueNo: 5,
+    linkUrl: './issue5',
+  },
+
+
+
 ];
 
 function IssueSection() {
   return (
     <section className="relative pb-4 text-white overflow-hidden">
-    
+
       <div className="max-w-7xl mx-auto text-center ">
         <h2 className="text-[32px] mb-8 sm:mb-0 py-4 border-b-1 w-fit text-center mx-auto font-light uppercase  tracking-tight text-[#195BA2] drop-shadow-md">
           Explore the Issues
         </h2>
-        
+
       </div>
 
       {/* <div className="flex md:flex-row  flex-col justify-center items-center   md:gap-10"> */}
-          {/* <div className="flex md:flex-row flex-col justify-center items-center md:gap-10 "> */}
-          <div class="flex flex-wrap justify-center items-center gap-6">
+      {/* <div className="flex md:flex-row flex-col justify-center items-center md:gap-10 "> */}
+      <div class="flex flex-wrap justify-center items-center gap-6">
         {issues.map((issue, index) => (
           <motion.div
             key={index}

@@ -38,3 +38,5 @@ public/videos/
 *.webp
 *.gif
 *.svg
+/public/
+/assets2/
