@@ -37,9 +37,12 @@ const issues = [
     issueNo: 5,
     linkUrl: './issue5',
   },
-
-
-
+  {
+    coverImg:
+      ' https://rosuvasheartinterventions.com/assets/issue6/cover6.png',
+    issueNo: 6,
+    linkUrl: './issue6',
+  },
 ];
 
 function IssueSection() {
@@ -55,7 +58,7 @@ function IssueSection() {
 
       {/* <div className="flex md:flex-row  flex-col justify-center items-center   md:gap-10"> */}
       {/* <div className="flex md:flex-row flex-col justify-center items-center md:gap-10 "> */}
-      <div class="flex flex-wrap justify-center items-center gap-6">
+      <div className="flex flex-wrap justify-center items-center gap-6">
         {issues.map((issue, index) => (
           <motion.div
             key={index}
