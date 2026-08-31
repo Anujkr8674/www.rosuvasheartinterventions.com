@@ -16,7 +16,7 @@ function AnimatedCase({ imgSrc, title, description, href, caseNo, reverse }) {
       <motion.img
         src={imgSrc}
         alt={`Case ${caseNo}`}
-        className="w-full h-full object-cover md:w-1/2 rounded shadow-md"
+        className="w-full h-full object-contain md:w-1/2 rounded shadow-md"
         initial={{ x: reverse ? 100 : -100, opacity: 0 }}
         animate={inView ? { x: 0, opacity: 1 } : {}}
         transition={{ duration: 0.6, ease: 'easeOut' }}

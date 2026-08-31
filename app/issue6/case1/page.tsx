@@ -59,7 +59,7 @@ function Page() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media1.mp4" title="Video 1A" about="65 years old lady presented with complaints of rest angina for last 1 week, Ecg showed ST-T changes in lateral leads" />
+          {/* <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media1.mp4" title="Video 1A" about="65 years old lady presented with complaints of rest angina for last 1 week, Ecg showed ST-T changes in lateral leads" />
           <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media2.mp4" title="Video 1B" about="Echo suggested normal LV function, CAG- suggested ostial LMCA disease with significant ostial LCX disease, proximal LAD significant disease but ostium relatively disease free, RCA – minor disease" />
           <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media3.mp4" title="Video 1C" about="So our plan was to perform LM bifurcation PTCA with DEB for side branch " />
           <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media4.mp4" title="Video 2A" about="Started with right femoral route with JL 3.5 GC. Wired both vessels. Predilated LCX ostium with 2.0 then 2.5 mm NC but IVUS showed very larger vessel size. So placed a buddy wire and predilated with 3mm cutting balloon to get good dissection plane. " />
@@ -84,7 +84,37 @@ function Page() {
           <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media20.mp4" title="Video 8B" about="POT done with 4.5 mm NC balloon. IVUS run taken from LAD showed under expansion of distal LAD stent so again post dilated with 3.5mm NC balloon and final POT with flaring done with 4.5 8 mm NC balloon. " />
           <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media21.mp4" title="Video 8C" about="POT done with 4.5 mm NC balloon. IVUS run taken from LAD showed under expansion of distal LAD stent so again post dilated with 3.5mm NC balloon and final POT with flaring done with 4.5 8 mm NC balloon. " />
           <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media22.mp4" title="Video 9A" about="Final check shot taken showed TIMI III flow " />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media23.mp4" title="Video 9B" about="Final check shot taken showed TIMI III flow " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media23.mp4" title="Video 9B" about="Final check shot taken showed TIMI III flow " /> */}
+
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media1.mp4" title="Video 1A" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media2.mp4" title="Video 1B" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media3.mp4" title="Video 1C" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media4.mp4" title="Video 2A" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media5.mp4" title="Video 2B" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media6.mp4" title="Video 2C" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media7.mp4" title="Video 3A" about=" " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media8.mp4" title="Video 3B" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media9.mp4" title="Video 4" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media10.mp4" title="Video 5A" about="" />
+
+
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media11.mp4" title="Video 5B" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media12.mp4" title="Video 5C" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media13.mp4" title="Video 6A" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media14.mp4" title="Video 6B" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media15.mp4" title="Video 6C" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media16.mp4" title="Video 7A" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media17.mp4" title="Video 7B" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media18.mp4" title="Video 7C" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media19.mp4" title="Video 8A" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media20.mp4" title="Video 8B" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media21.mp4" title="Video 8C" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media22.mp4" title="Video 9A" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media23.mp4" title="Video 9B" about="" />
+          {/* <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media24.mp4" title="Video 9C" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media25.mp4" title="Video 10A" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media26.mp4" title="Video 10B" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media27.mp4" title="Video 10C" about="" /> */}
         </div>
       </section>
     </div>
