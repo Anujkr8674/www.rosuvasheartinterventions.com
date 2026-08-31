@@ -59,29 +59,32 @@ function Page() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media1.mp4" title="Video 1" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media2.mp4" title="Video 2" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media3.mp4" title="Video 3" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media4.mp4" title="Video 4" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media5.mp4" title="Video 5" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media6.mp4" title="Video 6" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media7.mp4" title="Video 7" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media8.mp4" title="Video 8" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media9.mp4" title="Video 9" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media10.mp4" title="Video 10" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media11.mp4" title="Video 11" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media12.mp4" title="Video 12" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media13.mp4" title="Video 13" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media14.mp4" title="Video 14" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media15.mp4" title="Video 15" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media16.mp4" title="Video 16" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media17.mp4" title="Video 17" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media18.mp4" title="Video 18" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media19.mp4" title="Video 19" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media20.mp4" title="Video 20" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media21.mp4" title="Video 21" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media22.mp4" title="Video 22" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media23.mp4" title="Video 23" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media1.mp4" title="Video 1A" about="65 years old lady presented with complaints of rest angina for last 1 week, Ecg showed ST-T changes in lateral leads" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media2.mp4" title="Video 1B" about="Echo suggested normal LV function, CAG- suggested ostial LMCA disease with significant ostial LCX disease, proximal LAD significant disease but ostium relatively disease free, RCA – minor disease" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media3.mp4" title="Video 1C" about="So our plan was to perform LM bifurcation PTCA with DEB for side branch " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media4.mp4" title="Video 2A" about="Started with right femoral route with JL 3.5 GC. Wired both vessels. Predilated LCX ostium with 2.0 then 2.5 mm NC but IVUS showed very larger vessel size. So placed a buddy wire and predilated with 3mm cutting balloon to get good dissection plane. " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media5.mp4" title="Video 2B" about="Started with right femoral route with JL 3.5 GC. Wired both vessels. Predilated LCX ostium with 2.0 then 2.5 mm NC but IVUS showed very larger vessel size. So placed a buddy wire and predilated with 3mm cutting balloon to get good dissection plane. " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media6.mp4" title="Video 2C" about="Started with right femoral route with JL 3.5 GC. Wired both vessels. Predilated LCX ostium with 2.0 then 2.5 mm NC but IVUS showed very larger vessel size. So placed a buddy wire and predilated with 3mm cutting balloon to get good dissection plane. " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media7.mp4" title="Video 3A" about="After preparation of bed deployed 3.0 25 mm DEB. Then check result showed significant narrowing with dye holding " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media8.mp4" title="Video 3B" about="After preparation of bed deployed 3.0 25 mm DEB. Then check result showed significant narrowing with dye holding " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media9.mp4" title="Video 4A" about="performed IVUS which showed large intramural hematoma " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/video-4b.mp4" title="Video 4B" about="performed IVUS which showed large intramural hematoma " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media10.mp4" title="Video 5A" about="Predilated LAD with 3.0 12mm NC balloon and LM ostium with 3.5mm NC balloon and Deployed 3.0 19 mm DES in distal LAD." />
+
+
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media11.mp4" title="Video 5B" about="Predilated LAD with 3.0 12mm NC balloon and LM ostium with 3.5mm NC balloon and Deployed 3.0 19 mm DES in distal LAD. " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media12.mp4" title="Video 5C" about="Predilated LAD with 3.0 12mm NC balloon and LM ostium with 3.5mm NC balloon and Deployed 3.0 19 mm DES in distal LAD. " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media13.mp4" title="Video 6A" about="Deployed 3.0 24mm DES in LCX to cover intamural hematoma and crushed it with 3.5 12mm NC balloon in LAD. Then placed 4.0 23 mm overlapping stent from ostial LM to LAD. " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media14.mp4" title="Video 6B" about="Deployed 3.0 24mm DES in LCX to cover intamural hematoma and crushed it with 3.5 12mm NC balloon in LAD. Then placed 4.0 23 mm overlapping stent from ostial LM to LAD. " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media15.mp4" title="Video 6C" about="Deployed 3.0 24mm DES in LCX to cover intamural hematoma and crushed it with 3.5 12mm NC balloon in LAD. Then placed 4.0 23 mm overlapping stent from ostial LM to LAD. " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media16.mp4" title="Video 7A" about="Performed POT tried to recross but after several failed attempt successfully done with crusade dual lumen microcather and whisper wire. Strut dilated with 1.25 then 2 mm balloon. Kissing balloon inflation(KBI) done with 3.0 12 NC in LCX and 3.5 12 NC in LAD. " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media17.mp4" title="Video 7B" about="Performed POT tried to recross but after several failed attempt successfully done with crusade dual lumen microcather and whisper wire. Strut dilated with 1.25 then 2 mm balloon. Kissing balloon inflation(KBI) done with 3.0 12 NC in LCX and 3.5 12 NC in LAD. " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media18.mp4" title="Video 7C" about="Performed POT tried to recross but after several failed attempt successfully done with crusade dual lumen microcather and whisper wire. Strut dilated with 1.25 then 2 mm balloon. Kissing balloon inflation(KBI) done with 3.0 12 NC in LCX and 3.5 12 NC in LAD. " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media19.mp4" title="Video 8A" about="POT done with 4.5 mm NC balloon. IVUS run taken from LAD showed under expansion of distal LAD stent so again post dilated with 3.5mm NC balloon and final POT with flaring done with 4.5 8 mm NC balloon. " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media20.mp4" title="Video 8B" about="POT done with 4.5 mm NC balloon. IVUS run taken from LAD showed under expansion of distal LAD stent so again post dilated with 3.5mm NC balloon and final POT with flaring done with 4.5 8 mm NC balloon. " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media21.mp4" title="Video 8C" about="POT done with 4.5 mm NC balloon. IVUS run taken from LAD showed under expansion of distal LAD stent so again post dilated with 3.5mm NC balloon and final POT with flaring done with 4.5 8 mm NC balloon. " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media22.mp4" title="Video 9A" about="Final check shot taken showed TIMI III flow " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media23.mp4" title="Video 9B" about="Final check shot taken showed TIMI III flow " />
         </div>
       </section>
     </div>
