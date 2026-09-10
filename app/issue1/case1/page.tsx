@@ -75,7 +75,7 @@ function Page() {
           <VideoCard
             videoSrc="https://rosuvasheartinterventions.com/assets/issue1case1assets/video2_web.mp4"
             title="Video 2"
-            about="Rotational Atherectomy done with 1.5mm burr, total duration"
+            about="Rotational Atherectomy done with 1.5mm burr"
           />
           <VideoCard
             videoSrc="https://rosuvasheartinterventions.com/assets/issue1case1assets/video3_web.mp4"

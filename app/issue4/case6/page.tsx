@@ -16,7 +16,7 @@ function Page() {
           <p className="px-4 font-light py-2">Issue 4 - Case 6</p>
         </button>
         <h1 className="pt-4 sm:mx-8 sm:text-[30px] text-[20px] font-light">
-          A CHALLENGING CASE OF CALCIFIC LEFT MAIN INTERVENTION IN AN OCTOGENARIAN- WHEN ENOUGH IS NOT ENOUGH
+          TAMING THE “ROCK AND A HARD PLACE” SEQUENTIAL PCI OF HEAVILY CALCIFIED LAD AND TORTUOUS CALCIFIED CLX
         </h1>
 
         <div className="mt-6">

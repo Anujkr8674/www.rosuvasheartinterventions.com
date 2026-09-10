@@ -16,7 +16,7 @@ function Page() {
           <p className="px-4 font-light py-2">Issue 4 - Case 5</p>
         </button>
         <h1 className="pt-4 sm:mx-8 sm:text-[30px] text-[20px] font-light">
-          A OSTIAL LAD/D1 COMPLEX PCI- EARLY RECURRENCE
+          ROTATIONAL ATHERECTOMY WITH CUTTING BALLOON FOR COMPLEX CALCIFIED CORONARY LESION: A CASE REPORT
         </h1>
 
         <div className="mt-6">

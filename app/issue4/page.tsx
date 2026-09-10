@@ -96,7 +96,7 @@ function Page() {
         />
         <AnimatedCase
           imgSrc="https://rosuvasheartinterventions.com/assets/issue4case/issue5.png"
-          title="A OSTIAL LAD/D1 COMPLEX PCI- EARLY RECURRENCE"
+          title="ROTATIONAL ATHERECTOMY WITH CUTTING BALLOON FOR COMPLEX CALCIFIED CORONARY LESION: A CASE REPORT"
           description=""
           href="/issue4/case5"
           caseNo={5}
@@ -104,7 +104,7 @@ function Page() {
         />
         <AnimatedCase
           imgSrc="https://rosuvasheartinterventions.com/assets/issue4case/issue6.png"
-          title="A CHALLENGING CASE OF CALCIFIC LEFT MAIN INTERVENTION IN AN OCTOGENARIAN- WHEN ENOUGH IS NOT ENOUGH"
+          title="TAMING THE “ROCK AND A HARD PLACE” SEQUENTIAL PCI OF HEAVILY CALCIFIED LAD AND TORTUOUS CALCIFIED CLX"
           description=""
           href="/issue4/case6"
           caseNo={6}
