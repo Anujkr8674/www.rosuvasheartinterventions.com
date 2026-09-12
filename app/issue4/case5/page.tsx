@@ -44,13 +44,13 @@ function Page() {
             viewport={{ once: true }}
           >
             <AuthorCard
-              title="Dr. Suman Bhandari"
-              experience="MD DM FCSI FACC FESC FSCAI FIMSA"
-              designation="Director"
+              title="Dr. Ritwik Ghosal"
+              experience="MBBS (Hons) MD DNB (Medicine) MRCP (UK) DM (Cardiology)"
+              designation="Consultant and Interventional Cardiologist"
               department="Department of Cardiology"
-              hospital="Fortis Escorts Heart Institute"
-              location="New Delhi, India"
-              image="https://rosuvasheartinterventions.com/assets/issue4authors/suman.png"
+              hospital="Woodlands Multispeciality Hospital"
+              location="Kolkata, West Bengal, India"
+              image="https://rosuvasheartinterventions.com/assets/issue6/img/Ritwik.png"
             />
           </motion.div>
         </div>

@@ -44,13 +44,13 @@ function Page() {
             viewport={{ once: true }}
           >
             <AuthorCard
-              title="Dr. Sumeet Sethi"
-              experience="MBBS DNB (Medicine) DM (Cardiology)"
-              designation="Director"
+              title="Dr. Adil Bashir Wasil"
+              experience="MBBS MD (Medicine) DM (Cardiology) CCK FACC"
+              designation="Consultant and Interventional Cardiologist"
               department="Department of Cardiology"
-              hospital="Max Superspeciality Hospital"
-              location="Saket, New Delhi, India"
-              image="https://rosuvasheartinterventions.com/assets/issue4authors/sumeet.png"
+              hospital="Kolkata Heart Lung Center"
+              location="Kolkata, West Bengal, India"
+              image="https://rosuvasheartinterventions.com/assets/issue4authors/adil.jpeg"
             />
           </motion.div>
         </div>
