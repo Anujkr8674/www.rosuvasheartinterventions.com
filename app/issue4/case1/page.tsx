@@ -79,16 +79,16 @@ function Page() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case1assets/converted_video_1.mp4" title="Video 1" about=""/>
-             <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case1assets/converted_video_2.mp4" title="Video 2" about=""/>
-              <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case1assets/converted_video_3.mp4" title="Video 3" about=""/>
-               <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case1assets/converted_video_4.mp4" title="Video 4" about=""/>
-                <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case1assets/converted_video_5.mp4" title="Video 5" about=""/>
-                 <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case1assets/converted_video_6.mp4" title="Video 6" about=""/>
-                  <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case1assets/converted_video_7.mp4" title="Video 7" about=""/>
-                   <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case1assets/converted_video_8.mp4" title="Video 8" about=""/>
-                    <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case1assets/converted_video_9.mp4" title="Video 9" about=""/>
-                     <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case1assets/converted_video_10.mp4" title="Video 10" about=""/>
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case1assets/converted_video_1.mp4" title="Video 1" about="Coronary angiography showed a complex distal LM bifurcation lesion with LAD and LCX involvement, and RCA with patent stents"/>
+             <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case1assets/converted_video_2.mp4" title="Video 2" about="Coronary angiography showed a complex distal LM bifurcation lesion with LAD and LCX involvement, and RCA with patent stents"/>
+              <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case1assets/converted_video_3.mp4" title="Video 3" about="Pre-PCI OCT of the LCx–LM demonstrated tight stenosis with fibrocalcific plaque."/>
+               <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case1assets/converted_video_4.mp4" title="Video 4" about="Pre-PCI OCT of the LAD showed mixed plaque."/>
+                <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case1assets/converted_video_5.mp4" title="Video 5" about="Deployment of a 3.0 × 28 mm stent in the ostial-to-mid LAD (side branch), followed by crushing with a 3.5 mm NC balloon positioned in the main branch."/>
+                 <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case1assets/converted_video_6.mp4" title="Video 6" about="Deployment of a 3.0 × 28 mm stent in the ostial-to-mid LAD (side branch), followed by crushing with a 3.5 mm NC balloon positioned in the main branch."/>
+                  <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case1assets/converted_video_7.mp4" title="Video 7" about="First kissing-balloon inflation (KBI) following LAD rewiring and ostial post-dilatation."/>
+                   <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case1assets/converted_video_8.mp4" title="Video 8" about="Deployment of a 4.0 × 28 mm crossover stent from the LM into the LCx, followed by proximal optimisation technique (POT) using a 4.5 × 12 mm balloon."/>
+                    <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case1assets/converted_video_9.mp4" title="Video 9" about="Satisfactory MSAs in LM and LCX post-PCI"/>
+                     <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case1assets/converted_video_10.mp4" title="Video 10" about="Suboptimal expansion in the LAD"/>
         </div>
       </section>
     </div>

@@ -59,17 +59,17 @@ function Page() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-5/Video%201.mp4" title="Video 1" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-5/Video%202.mp4" title="Video 2" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-5/Video%203.mp4" title="Video 3" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-5/Video%204.mp4" title="Video 4" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-5/Video%205.mp4" title="Video 5" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-5/Video%206.mp4" title="Video 6" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-5/Video%207.mp4" title="Video 7" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-5/Video%208.mp4" title="Video 8" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-5/Video%209.mp4" title="Video 9" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-5/Video%2010.mp4" title="Video 10" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-5/Video%2011.mp4" title="Video 11" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-5/Video%201.mp4" title="Video 1" about="RCA staged" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-5/Video%202.mp4" title="Video 2" about="RCA controlled during PCI to LAD/D1" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-5/Video%203.mp4" title="Video 3" about="Left coronary system" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-5/Video%204.mp4" title="Video 4" about="Wiring of the LAD and D1" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-5/Video%205.mp4" title="Video 5" about="Balloon dilatation of D1 with a long balloon" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-5/Video%206.mp4" title="Video 6" about="Wolverine balloon use in D1 and mini-crush technique" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-5/Video%207.mp4" title="Video 7" about="Final result after successful PCI" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-5/Video%208.mp4" title="Video 8" about="Distal left main flap" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-5/Video%209.mp4" title="Video 9" about="Distal left main and ostial LAD haziness" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-5/Video%2010.mp4" title="Video 10" about="Distal left main and ostial LAD haziness" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-5/Video%2011.mp4" title="Video 11" about="Distal left main and ostial LAD haziness" />
 
         </div>
       </section>

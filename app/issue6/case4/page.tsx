@@ -70,19 +70,19 @@ function Page() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%201.mp4" title="Video 1" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%202.mp4" title="Video 2" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%203.mp4" title="Video 3" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%204.mp4" title="Video 4" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%205.mp4" title="Video 5" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%206.mp4" title="Video 6" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%207.mp4" title="Video 7" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%208.mp4" title="Video 8" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%209.mp4" title="Video 9" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%2010.mp4" title="Video 10" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%2011.mp4" title="Video 11" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%2012.mp4" title="Video 12" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%2013.mp4" title="Video 13" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%201.mp4" title="Video 1" about="Left anterior descending (LAD) lesion" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%202.mp4" title="Video 2" about="Left anterior descending (LAD) lesion" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%203.mp4" title="Video 3" about="Left anterior descending (LAD) lesion" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%204.mp4" title="Video 4" about="Wire prolapse at the ostium" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%205.mp4" title="Video 5" about="Fielder FC wire manipulated to the ostium in the LAO caudal view, advanced in the AP cranial view, and prolapsed from the ostium during manipulation" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%206.mp4" title="Video 6" about="Fielder FC wire manipulated to the ostium in the LAO caudal view, advanced in the AP cranial view, and prolapsed from the ostium during manipulation" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%207.mp4" title="Video 7" about="Fielder FC wire manipulated to the ostium in the LAO caudal view, advanced in the AP cranial view, and prolapsed from the ostium during manipulation" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%208.mp4" title="Video 8" about="Wire advancement through the vessel using the RAO caudal view" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%209.mp4" title="Video 9" about="Post-wiring" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%2010.mp4" title="Video 10" about="Balloon dilatation" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%2011.mp4" title="Video 11" about="Stent deployment " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%2012.mp4" title="Video 12" about="Distal haziness" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-4/Video%2013.mp4" title="Video 13" about="Stent deployment to treat distal haziness" />
         </div>
       </section>
     </div>

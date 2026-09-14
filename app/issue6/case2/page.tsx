@@ -70,21 +70,21 @@ function Page() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media%201.mp4" title="Video 1" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media%202.mp4" title="Video 2" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media%203.mp4" title="Video 3" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media%204.mp4" title="Video 4" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media%205.mp4" title="Video 5" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media%206.mp4" title="Video 6" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media%207.mp4" title="Video 7" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media%208.mp4" title="Video 8" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media%209.mp4" title="Video 9" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media10.mp4" title="Video 10" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media11.mp4" title="Video 11" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media12.mp4" title="Video 12" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media13.mp4" title="Video 13" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media14.mp4" title="Video 14" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media15.mp4" title="Video 15" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media%201.mp4" title="Video 1" about="Coronary angiogram: 90% LCX stenosis, 70–80% MOM involvement" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media%202.mp4" title="Video 2" about="Diffusely calcified and stenosed mid LAD " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media%203.mp4" title="Video 3" about="Proximal RCA lesion" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media%204.mp4" title="Video 4" about="Stented LCX-MOM segment " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media%205.mp4" title="Video 5" about="Post-dilatation" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media%206.mp4" title="Video 6" about="Exchange of the hydrophilic wire for a rota wire" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media%207.mp4" title="Video 7" about="Burr entrapment " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media%208.mp4" title="Video 8" about="Burr retrieval" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media%209.mp4" title="Video 9" about="Advancement of the 1.5-mm burr at a higher rotational speed" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media10.mp4" title="Video 10" about="Post-rotablation IVUS assessment " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media11.mp4" title="Video 11" about="Grade 3 perforation in the distal LAD" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media12.mp4" title="Video 12" about="Balloon tamponade and deployment of a covered GraftMaster stent" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media13.mp4" title="Video 13" about="Stent deployment from the proximal to distal LAD" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media14.mp4" title="Video 14" about="Post-stenting IVUS showing mild stent under-expansion" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-2/Media15.mp4" title="Video 15" about="Final angiographic result showing TIMI III flow without worsening blush at the perforation site" />
         </div>
       </section>
     </div>

@@ -80,11 +80,11 @@ function Page() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case3assets/video1.mp4" title="Video 1" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case3assets/video2.mp4" title="Video 2" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case3assets/video3.mp4" title="Video 3" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case3assets/video4.mp4" title="Video 4" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case3assets/video5B.mp4" title="Video 5" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case3assets/video1.mp4" title="Video 1" about="CAG demonstrating calcified distal LM stenosis with involvement of the ostial LAD and ostial LCx" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case3assets/video2.mp4" title="Video 2" about="Wiring of the LAD followed rotational atherectomy using a 1.5 mm burr." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case3assets/video3.mp4" title="Video 3" about="Post-IVL IVUS assessment for stent sizing " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case3assets/video4.mp4" title="Video 4" about="Final IVUS demonstrating excellent stent expansion and apposition with adequate MSA in the distal LM and branch vessels." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case3assets/video5B.mp4" title="Video 5" about="Final CAG demonstrating brisk TIMI grade 3 flow without residual stenosis, dissection, or distal vessel perforation." />
         </div>
       </section>
     </div>

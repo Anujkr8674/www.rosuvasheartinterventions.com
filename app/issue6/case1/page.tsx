@@ -86,31 +86,29 @@ function Page() {
           <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media22.mp4" title="Video 9A" about="Final check shot taken showed TIMI III flow " />
           <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media23.mp4" title="Video 9B" about="Final check shot taken showed TIMI III flow " /> */}
 
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media1.mp4" title="Video 1A" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media2.mp4" title="Video 1B" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media3.mp4" title="Video 1C" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media4.mp4" title="Video 2A" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media5.mp4" title="Video 2B" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media6.mp4" title="Video 2C" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media7.mp4" title="Video 3A" about=" " />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media8.mp4" title="Video 3B" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media9.mp4" title="Video 4" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media10.mp4" title="Video 5A" about="" />
-
-
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media11.mp4" title="Video 5B" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media12.mp4" title="Video 5C" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media13.mp4" title="Video 6A" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media14.mp4" title="Video 6B" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media15.mp4" title="Video 6C" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media16.mp4" title="Video 7A" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media17.mp4" title="Video 7B" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media18.mp4" title="Video 7C" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media19.mp4" title="Video 8A" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media20.mp4" title="Video 8B" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media21.mp4" title="Video 8C" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media22.mp4" title="Video 9A" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media23.mp4" title="Video 9B" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media1.mp4" title="Video 1A" about="CAG demonstrating significant disease involving the ostial LMCA, ostial LCX, and proximal LAD, with minor disease in the RCA" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media2.mp4" title="Video 1B" about="CAG demonstrating significant disease involving the ostial LMCA, ostial LCX, and proximal LAD, with minor disease in the RCA" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media3.mp4" title="Video 1C" about="CAG demonstrating significant disease involving the ostial LMCA, ostial LCX, and proximal LAD, with minor disease in the RCA" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media4.mp4" title="Video 2A" about="Predilatation of the LCX ostium using 2.0 mm and 2.5 mm NC balloons, followed by buddy-wire-assisted predilatation with a 3.0 mm cutting balloon." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media5.mp4" title="Video 2B" about="Predilatation of the LCX ostium using 2.0 mm and 2.5 mm NC balloons, followed by buddy-wire-assisted predilatation with a 3.0 mm cutting balloon." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media6.mp4" title="Video 2C" about="Predilatation of the LCX ostium using 2.0 mm and 2.5 mm NC balloons, followed by buddy-wire-assisted predilatation with a 3.0 mm cutting balloon." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media7.mp4" title="Video 3A" about="Deployment of a 3.0 × 25 mm drug-coated balloon (DEB), followed by angiography demonstrating significant residual narrowing with dye hold-up. " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media8.mp4" title="Video 3B" about="Deployment of a 3.0 × 25 mm drug-coated balloon (DEB), followed by angiography demonstrating significant residual narrowing with dye hold-up." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media9.mp4" title="Video 4" about="IVUS showed a large intramural hematoma " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media10.mp4" title="Video 5A" about="Predilatation of LAD and LM ostium, followed by stent deployment in the distal LAD " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media11.mp4" title="Video 5B" about="Predilatation of LAD and LM ostium, followed by stent deployment in the distal LAD " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media12.mp4" title="Video 5C" about="Predilatation of LAD and LM ostium, followed by stent deployment in the distal LAD " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media13.mp4" title="Video 6A" about="Stent deployment in the LCX, followed by crushing using an NC balloon in the LAD and deployment of an overlapping stent from the ostial LM to the LAD." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media14.mp4" title="Video 6B" about="Stent deployment in the LCX, followed by crushing using an NC balloon in the LAD and deployment of an overlapping stent from the ostial LM to the LAD." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media15.mp4" title="Video 6C" about="Stent deployment in the LCX, followed by crushing using an NC balloon in the LAD and deployment of an overlapping stent from the ostial LM to the LAD." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media16.mp4" title="Video 7A" about="POT, LCX recrossing and strut dilatation, followed by kissing-balloon inflation using NC balloons in the LCX and LAD." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media17.mp4" title="Video 7B" about="POT, LCX recrossing and strut dilatation, followed by kissing-balloon inflation using NC balloons in the LCX and LAD." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media18.mp4" title="Video 7C" about="POT, LCX recrossing and strut dilatation, followed by kissing-balloon inflation using NC balloons in the LCX and LAD." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media19.mp4" title="Video 8A" about="IVUS post-POT showed under-expansion of the distal LAD stent; therefore, further postdilation and POT with flaring was done." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media20.mp4" title="Video 8B" about="IVUS post-POT showed under-expansion of the distal LAD stent; therefore, further postdilation and POT with flaring was done." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media21.mp4" title="Video 8C" about="IVUS post-POT showed under-expansion of the distal LAD stent; therefore, further postdilation and POT with flaring was done." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media22.mp4" title="Video 9A" about="Final angiograms showed TIMI III flow " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media23.mp4" title="Video 9B" about="Final angiograms showed TIMI III flow " />
           {/* <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media24.mp4" title="Video 9C" about="" />
           <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media25.mp4" title="Video 10A" about="" />
           <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-1/Media26.mp4" title="Video 10B" about="" />

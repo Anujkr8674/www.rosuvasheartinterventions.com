@@ -71,7 +71,7 @@ function Page() {
           <VideoCard
             videoSrc="https://rosuvasheartinterventions.com/assets/issue3case1assets/video1.mp4"
             title="Video 1"
-            about=""
+            about="Balloon tamponade of the ostial RCA using the stent delivery balloon following coronary artery perforation"
           />
            
          

@@ -59,7 +59,7 @@ function Page() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-6/Video%201.mp4" title="Video 1" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-6/Video%201.mp4" title="Video 1" about="DISTAL LEFT MAIN STEM DISEASE MANAGED WITH ROTA-LITHOTRIPSY AND DK CRUSH STENTING" />
         </div>
       </section>
     </div>

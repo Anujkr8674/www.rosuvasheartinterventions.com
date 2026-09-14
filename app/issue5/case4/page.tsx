@@ -70,17 +70,17 @@ function Page() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 1.mp4" title="Video 1" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 2.mp4" title="Video 2" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 3.mp4" title="Video 3" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 4.mp4" title="Video 4" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 5.mp4" title="Video 5" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 6.mp4" title="Video 6" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 7.mp4" title="Video 7" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 8.mp4" title="Video 8" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 9.mp4" title="Video 9" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 10.mp4" title="Video 10" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 11.mp4" title="Video 11" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 1.mp4" title="Video 1" about="Angiogram: Calcific triple-vessel disease with distal left main stem (LMS) disease " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 2.mp4" title="Video 2" about="Severe calcification visible on IVUS" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 3.mp4" title="Video 3" about="Calcium modification with IVL from the proximal to mid RCA " />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 4.mp4" title="Video 4" about="DES deployment followed by stent optimization using NC balloons" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 5.mp4" title="Video 5" about="DES deployment followed by stent optimization using NC balloons" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 6.mp4" title="Video 6" about="Final IVUS run showed good stent expansion" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 7.mp4" title="Video 7" about="IVUS showed severe calcification in ostial, proximal, and mid LAD" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 8.mp4" title="Video 8" about="LAD IVL" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 9.mp4" title="Video 9" about="Repeat IVUS showing a persistent uncracked 360° ring of calcium in the proximal LAD" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 10.mp4" title="Video 10" about="Cutting-balloon angioplasty with a Wolverine balloon for calcium modification" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue5videos/case 4/Media 11.mp4" title="Video 11" about="LM-to-LAD stenting followed by post-dilatation and final POT " />
         </div>
       </section>
     </div>

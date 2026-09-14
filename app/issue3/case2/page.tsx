@@ -103,22 +103,22 @@ function Page() {
           <VideoCard
             videoSrc="https://rosuvasheartinterventions.com/assets/issue3case2assets/Video1.mp4"
             title="Video 1"
-            about=""
+            about="Coronary angiography demonstrating total occlusion of LAD with Rentrop grade III collateralization from the LCx, normal LM and LCx arteries, and chronic total occlusion of RCA"
           />
           <VideoCard
             videoSrc="https://rosuvasheartinterventions.com/assets/issue3case2assets/video2.mp4"
             title="Video 2"
-            about=""
+            about="Coronary angiography demonstrating total occlusion of LAD with Rentrop grade III collateralization from the LCx, normal LM and LCx arteries, and chronic total occlusion of RCA"
           />
           <VideoCard
             videoSrc="https://rosuvasheartinterventions.com/assets/issue3case2assets/video3.mp4"
             title="Video 3"
-            about=""
+            about="DCB-only strategy with sequential drug-coated balloon angioplasty of the mid-distal and ostio-proximal to mid LAD, followed by NC balloon angioplasty of the distal LAD"
           />
           <VideoCard
             videoSrc="https://rosuvasheartinterventions.com/assets/issue3case2assets/video4.mp4"
             title="Video 4"
-            about=""
+            about="DCB-only strategy with sequential drug-coated balloon angioplasty of the mid-distal and ostio-proximal to mid LAD, followed by NC balloon angioplasty of the distal LAD"
           />
           
         </div>

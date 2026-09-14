@@ -59,7 +59,7 @@ function Page() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-3/Video%201.mp4" title="Video 1" about="Case Video 1" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue6/Videos/Case-3/Video%201.mp4" title="Video 1" about="CIVL-ASSISTED MULTIVESSEL PCI IN A SEVERELY CALCIFIED LM–LAD LESION ase Video 1" />
         </div>
       </section>
     </div>
