@@ -64,17 +64,25 @@ function Page() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video1.mp4" title="Video 1" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video2.mp4" title="Video 2" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video3.mp4" title="Video 3" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video4.mp4" title="Video 4" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video5.mp4" title="Video 5" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video6.mp4" title="Video 6" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video7.mp4" title="Video 7" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video8.mp4" title="Video 8" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video9.mp4" title="Video 9" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video10.mp4" title="Video 10" about="" />
-          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video11.mp4" title="Video 11" about="" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video1a.mp4" title="Video 1A" about="CAG showed a normal LMCA, 40% plaque in the LAD, proximal LCX cut-off, and severely calcified RCA with subtotal occlusion from the mid-RCA." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video1b.mp4" title="Video 1B" about="CAG showed a normal LMCA, 40% plaque in the LAD, proximal LCX cut-off, and severely calcified RCA with subtotal occlusion from the mid-RCA." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video1c.mp4" title="Video 1C" about="CAG showed a normal LMCA, 40% plaque in the LAD, proximal LCX cut-off, and severely calcified RCA with subtotal occlusion from the mid-RCA." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video2a.mp4" title="Video 2A" about="Exchange of the JR catheter with an AL 0.75 6-Fr guiding catheter and rewiring of the lesion." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video2b.mp4" title="Video 2B" about="Exchange of the JR catheter with an AL 0.75 6-Fr guiding catheter and rewiring of the lesion." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video2c.mp4" title="Video 2C" about="Exchange of the JR catheter with an AL 0.75 6-Fr guiding catheter and rewiring of the lesion." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video3a.mp4" title="Video 3A" about="Postdilatation using a 2.5 × 12 mm NC balloon." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video3b.mp4" title="Video 3B" about="Postdilatation using a 2.5 × 12 mm NC balloon." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video3c.mp4" title="Video 3C" about="Postdilatation using a 2.5 × 12 mm NC balloon." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video4.mp4" title="Video 4" about="IVUS revealed a 360° calcium arc with an MLA of 2.8 mm²." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video5.mp4" title="Video 5" about="IVUS revealed a 360° calcium arc with an MLA of 2.8 mm²." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video6a.mp4" title="Video 6A" about="Post-predilatation using a 2.75 × 10 mm cutting balloon, IVUS showed more than three cuts at the tightest areas." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video6b.mp4" title="Video 6B" about="Post-predilatation using a 2.75 × 10 mm cutting balloon, IVUS showed more than three cuts at the tightest areas." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video7a.mp4" title="Video 7A" about="Deployment of two overlapping DES (3.0 × 32 mm distally and 3.5 × 24 mm proximally)." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video7b.mp4" title="Video 7B" about="Deployment of two overlapping DES (3.0 × 32 mm distally and 3.5 × 24 mm proximally)." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video8.mp4" title="Video 8" about="Final IVUS, followed by post-dilatation, showed a well-apposed and well-expanded stent with an MSA of 6 mm² and no edge dissection." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video9.mp4" title="Video 9" about="Final IVUS, followed by post-dilatation, showed a well-apposed and well-expanded stent with an MSA of 6 mm² and no edge dissection." />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video10a.mp4" title="Video 10A" about="TIMI III flow; TPM removed" />
+          <VideoCard videoSrc="https://rosuvasheartinterventions.com/assets/issue4case5assets/video10b.mp4" title="Video 10B" about="TIMI III flow; TPM removed" />
         </div>
       </section>
     </div>
